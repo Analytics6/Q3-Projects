@@ -1,0 +1,4 @@
+-r requirements.txt
+langchain-chroma>=1.0,<2
+chromadb>=1.0,<2
+reportlab>=4.2,<5
