@@ -1,0 +1,1056 @@
+{
+  "name": "Finwell Indian cards and loans support knowledge base",
+  "edition": "2026-11-25",
+  "documents": [
+    {
+      "id": "FW-001",
+      "filename": "FW-001_unrecognized_credit_card_transaction.pdf",
+      "title": "Unrecognized credit-card transaction",
+      "topic": "Credit cards",
+      "focus": "A transaction appears on the card statement or alert that the cardholder does not recognize.",
+      "sources": [
+        {
+          "title": "RBI Master Direction - Credit Card and Debit Card - Issuance and Conduct Directions, 2022",
+          "url": "https://www.rbi.org.in/SCRIPTS/BS_ViewMasDirections.aspx?id=13027"
+        },
+        {
+          "title": "RBI Integrated Ombudsman Scheme - Complaint information",
+          "url": "https://cms.rbi.org.in/"
+        }
+      ]
+    },
+    {
+      "id": "FW-002",
+      "filename": "FW-002_card_not_present_online_payment_fraud.pdf",
+      "title": "Card-not-present online payment fraud",
+      "topic": "Credit cards",
+      "focus": "An online, mail-order, or app transaction was not authorized by the cardholder.",
+      "sources": [
+        {
+          "title": "RBI Master Direction - Credit Card and Debit Card - Issuance and Conduct Directions, 2022",
+          "url": "https://www.rbi.org.in/SCRIPTS/BS_ViewMasDirections.aspx?id=13027"
+        },
+        {
+          "title": "RBI Integrated Ombudsman Scheme - Complaint information",
+          "url": "https://cms.rbi.org.in/"
+        }
+      ]
+    },
+    {
+      "id": "FW-003",
+      "filename": "FW-003_card_stolen_misplaced_or_retained.pdf",
+      "title": "Card stolen, misplaced, or retained",
+      "topic": "Credit cards",
+      "focus": "The physical card is missing, stolen, or retained by an ATM or payment terminal.",
+      "sources": [
+        {
+          "title": "RBI Master Direction - Credit Card and Debit Card - Issuance and Conduct Directions, 2022",
+          "url": "https://www.rbi.org.in/SCRIPTS/BS_ViewMasDirections.aspx?id=13027"
+        },
+        {
+          "title": "RBI Integrated Ombudsman Scheme - Complaint information",
+          "url": "https://cms.rbi.org.in/"
+        }
+      ]
+    },
+    {
+      "id": "FW-004",
+      "filename": "FW-004_duplicate_or_repeated_card_charge.pdf",
+      "title": "Duplicate or repeated card charge",
+      "topic": "Credit cards",
+      "focus": "The same purchase appears more than once, or an authorization and final charge both appear.",
+      "sources": [
+        {
+          "title": "RBI Master Direction - Credit Card and Debit Card - Issuance and Conduct Directions, 2022",
+          "url": "https://www.rbi.org.in/SCRIPTS/BS_ViewMasDirections.aspx?id=13027"
+        },
+        {
+          "title": "RBI Integrated Ombudsman Scheme - Complaint information",
+          "url": "https://cms.rbi.org.in/"
+        }
+      ]
+    },
+    {
+      "id": "FW-005",
+      "filename": "FW-005_refund_missing_after_cancellation.pdf",
+      "title": "Refund missing after cancellation",
+      "topic": "Credit cards",
+      "focus": "A merchant confirms a refund, but the credit-card balance or statement does not show it.",
+      "sources": [
+        {
+          "title": "RBI Master Direction - Credit Card and Debit Card - Issuance and Conduct Directions, 2022",
+          "url": "https://www.rbi.org.in/SCRIPTS/BS_ViewMasDirections.aspx?id=13027"
+        },
+        {
+          "title": "RBI Integrated Ombudsman Scheme - Complaint information",
+          "url": "https://cms.rbi.org.in/"
+        }
+      ]
+    },
+    {
+      "id": "FW-006",
+      "filename": "FW-006_statement_amount_or_billed_total_looks_wrong.pdf",
+      "title": "Statement amount or billed total looks wrong",
+      "topic": "Credit cards",
+      "focus": "The total due, fee, tax, interest, or transaction entry differs from the cardholder's records.",
+      "sources": [
+        {
+          "title": "RBI Master Direction - Credit Card and Debit Card - Issuance and Conduct Directions, 2022",
+          "url": "https://www.rbi.org.in/SCRIPTS/BS_ViewMasDirections.aspx?id=13027"
+        },
+        {
+          "title": "RBI Integrated Ombudsman Scheme - Complaint information",
+          "url": "https://cms.rbi.org.in/"
+        }
+      ]
+    },
+    {
+      "id": "FW-007",
+      "filename": "FW-007_interest_or_finance_charge_dispute.pdf",
+      "title": "Interest or finance charge dispute",
+      "topic": "Credit cards",
+      "focus": "Interest has been charged after a payment, refund, or balance transfer.",
+      "sources": [
+        {
+          "title": "RBI Master Direction - Credit Card and Debit Card - Issuance and Conduct Directions, 2022",
+          "url": "https://www.rbi.org.in/SCRIPTS/BS_ViewMasDirections.aspx?id=13027"
+        },
+        {
+          "title": "RBI Integrated Ombudsman Scheme - Complaint information",
+          "url": "https://cms.rbi.org.in/"
+        }
+      ]
+    },
+    {
+      "id": "FW-008",
+      "filename": "FW-008_minimum_due_paid_but_balance_keeps_growing.pdf",
+      "title": "Minimum due paid but balance keeps growing",
+      "topic": "Credit cards",
+      "focus": "The cardholder pays the minimum amount but sees the balance or interest rise.",
+      "sources": [
+        {
+          "title": "RBI Master Direction - Credit Card and Debit Card - Issuance and Conduct Directions, 2022",
+          "url": "https://www.rbi.org.in/SCRIPTS/BS_ViewMasDirections.aspx?id=13027"
+        },
+        {
+          "title": "RBI Integrated Ombudsman Scheme - Complaint information",
+          "url": "https://cms.rbi.org.in/"
+        }
+      ]
+    },
+    {
+      "id": "FW-009",
+      "filename": "FW-009_card_payment_not_reflected.pdf",
+      "title": "Card payment not reflected",
+      "topic": "Credit cards",
+      "focus": "A payment was made, but the card account still shows the amount as unpaid or overdue.",
+      "sources": [
+        {
+          "title": "RBI Master Direction - Credit Card and Debit Card - Issuance and Conduct Directions, 2022",
+          "url": "https://www.rbi.org.in/SCRIPTS/BS_ViewMasDirections.aspx?id=13027"
+        },
+        {
+          "title": "RBI Integrated Ombudsman Scheme - Complaint information",
+          "url": "https://cms.rbi.org.in/"
+        }
+      ]
+    },
+    {
+      "id": "FW-010",
+      "filename": "FW-010_credit_limit_reduced_or_card_declined.pdf",
+      "title": "Credit limit reduced or card declined",
+      "topic": "Credit cards",
+      "focus": "A purchase is declined or the available limit changes unexpectedly.",
+      "sources": [
+        {
+          "title": "RBI Master Direction - Credit Card and Debit Card - Issuance and Conduct Directions, 2022",
+          "url": "https://www.rbi.org.in/SCRIPTS/BS_ViewMasDirections.aspx?id=13027"
+        },
+        {
+          "title": "RBI Integrated Ombudsman Scheme - Complaint information",
+          "url": "https://cms.rbi.org.in/"
+        }
+      ]
+    },
+    {
+      "id": "FW-011",
+      "filename": "FW-011_credit_card_emi_or_conversion_dispute.pdf",
+      "title": "Credit-card EMI or conversion dispute",
+      "topic": "Credit cards",
+      "focus": "A purchase was converted to EMI, or an EMI amount, tenure, fee, or interest seems incorrect.",
+      "sources": [
+        {
+          "title": "RBI Master Direction - Credit Card and Debit Card - Issuance and Conduct Directions, 2022",
+          "url": "https://www.rbi.org.in/SCRIPTS/BS_ViewMasDirections.aspx?id=13027"
+        },
+        {
+          "title": "RBI Integrated Ombudsman Scheme - Complaint information",
+          "url": "https://cms.rbi.org.in/"
+        }
+      ]
+    },
+    {
+      "id": "FW-012",
+      "filename": "FW-012_recurring_subscription_or_card_mandate_charge.pdf",
+      "title": "Recurring subscription or card mandate charge",
+      "topic": "Credit cards",
+      "focus": "A subscription renews after cancellation or an unexpected recurring card payment occurs.",
+      "sources": [
+        {
+          "title": "RBI Master Direction - Credit Card and Debit Card - Issuance and Conduct Directions, 2022",
+          "url": "https://www.rbi.org.in/SCRIPTS/BS_ViewMasDirections.aspx?id=13027"
+        },
+        {
+          "title": "RBI Integrated Ombudsman Scheme - Complaint information",
+          "url": "https://cms.rbi.org.in/"
+        }
+      ]
+    },
+    {
+      "id": "FW-013",
+      "filename": "FW-013_credit_card_complaint_escalation.pdf",
+      "title": "Credit-card complaint escalation",
+      "topic": "Credit cards",
+      "focus": "A card complaint remains unresolved, has been rejected, or lacks a clear written response.",
+      "sources": [
+        {
+          "title": "RBI Master Direction - Credit Card and Debit Card - Issuance and Conduct Directions, 2022",
+          "url": "https://www.rbi.org.in/SCRIPTS/BS_ViewMasDirections.aspx?id=13027"
+        },
+        {
+          "title": "RBI Integrated Ombudsman Scheme - Complaint information",
+          "url": "https://cms.rbi.org.in/"
+        }
+      ]
+    },
+    {
+      "id": "FW-014",
+      "filename": "FW-014_unrecognized_debit_card_transaction.pdf",
+      "title": "Unrecognized debit-card transaction",
+      "topic": "Debit cards",
+      "focus": "Money was debited from a linked bank account through a card transaction the customer does not recognize.",
+      "sources": [
+        {
+          "title": "RBI Customer Protection - Limiting Liability of Customers in Unauthorised Electronic Banking Transactions",
+          "url": "https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=13140"
+        },
+        {
+          "title": "RBI Integrated Ombudsman Scheme - Complaint information",
+          "url": "https://cms.rbi.org.in/"
+        }
+      ]
+    },
+    {
+      "id": "FW-015",
+      "filename": "FW-015_atm_cash_not_dispensed_but_account_debited.pdf",
+      "title": "ATM cash not dispensed but account debited",
+      "topic": "Debit cards",
+      "focus": "An ATM transaction debited the account but no cash, or only partial cash, was dispensed.",
+      "sources": [
+        {
+          "title": "RBI Customer Protection - Limiting Liability of Customers in Unauthorised Electronic Banking Transactions",
+          "url": "https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=13140"
+        },
+        {
+          "title": "RBI Integrated Ombudsman Scheme - Complaint information",
+          "url": "https://cms.rbi.org.in/"
+        }
+      ]
+    },
+    {
+      "id": "FW-016",
+      "filename": "FW-016_atm_cash_retained_or_card_captured.pdf",
+      "title": "ATM cash retained or card captured",
+      "topic": "Debit cards",
+      "focus": "An ATM retained the card or cash did not return after the transaction.",
+      "sources": [
+        {
+          "title": "RBI Customer Protection - Limiting Liability of Customers in Unauthorised Electronic Banking Transactions",
+          "url": "https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=13140"
+        },
+        {
+          "title": "RBI Integrated Ombudsman Scheme - Complaint information",
+          "url": "https://cms.rbi.org.in/"
+        }
+      ]
+    },
+    {
+      "id": "FW-017",
+      "filename": "FW-017_pos_purchase_declined_but_account_debited.pdf",
+      "title": "POS purchase declined but account debited",
+      "topic": "Debit cards",
+      "focus": "A shop or online point-of-sale transaction failed, but the linked account shows a debit.",
+      "sources": [
+        {
+          "title": "RBI Customer Protection - Limiting Liability of Customers in Unauthorised Electronic Banking Transactions",
+          "url": "https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=13140"
+        },
+        {
+          "title": "RBI Integrated Ombudsman Scheme - Complaint information",
+          "url": "https://cms.rbi.org.in/"
+        }
+      ]
+    },
+    {
+      "id": "FW-018",
+      "filename": "FW-018_duplicate_debit_card_purchase.pdf",
+      "title": "Duplicate debit-card purchase",
+      "topic": "Debit cards",
+      "focus": "Two debits appear for one purchase or one transaction attempt.",
+      "sources": [
+        {
+          "title": "RBI Customer Protection - Limiting Liability of Customers in Unauthorised Electronic Banking Transactions",
+          "url": "https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=13140"
+        },
+        {
+          "title": "RBI Integrated Ombudsman Scheme - Complaint information",
+          "url": "https://cms.rbi.org.in/"
+        }
+      ]
+    },
+    {
+      "id": "FW-019",
+      "filename": "FW-019_debit_card_refund_delayed.pdf",
+      "title": "Debit-card refund delayed",
+      "topic": "Debit cards",
+      "focus": "A merchant says a refund was issued to the debit card, but the bank account is not credited.",
+      "sources": [
+        {
+          "title": "RBI Customer Protection - Limiting Liability of Customers in Unauthorised Electronic Banking Transactions",
+          "url": "https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=13140"
+        },
+        {
+          "title": "RBI Integrated Ombudsman Scheme - Complaint information",
+          "url": "https://cms.rbi.org.in/"
+        }
+      ]
+    },
+    {
+      "id": "FW-020",
+      "filename": "FW-020_debit_card_blocked_or_hot_listed_unexpectedly.pdf",
+      "title": "Debit card blocked or hot-listed unexpectedly",
+      "topic": "Debit cards",
+      "focus": "A card is blocked after failed PIN attempts, suspected fraud, or a bank security action.",
+      "sources": [
+        {
+          "title": "RBI Customer Protection - Limiting Liability of Customers in Unauthorised Electronic Banking Transactions",
+          "url": "https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=13140"
+        },
+        {
+          "title": "RBI Integrated Ombudsman Scheme - Complaint information",
+          "url": "https://cms.rbi.org.in/"
+        }
+      ]
+    },
+    {
+      "id": "FW-021",
+      "filename": "FW-021_debit_card_pin_reset_or_activation_issue.pdf",
+      "title": "Debit-card PIN reset or activation issue",
+      "topic": "Debit cards",
+      "focus": "A new, reissued, or replacement card cannot be activated or the PIN does not work.",
+      "sources": [
+        {
+          "title": "RBI Customer Protection - Limiting Liability of Customers in Unauthorised Electronic Banking Transactions",
+          "url": "https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=13140"
+        },
+        {
+          "title": "RBI Integrated Ombudsman Scheme - Complaint information",
+          "url": "https://cms.rbi.org.in/"
+        }
+      ]
+    },
+    {
+      "id": "FW-022",
+      "filename": "FW-022_international_or_contactless_debit_payment_issue.pdf",
+      "title": "International or contactless debit payment issue",
+      "topic": "Debit cards",
+      "focus": "An overseas, online, tap-to-pay, or contactless debit transaction is declined or unexpected.",
+      "sources": [
+        {
+          "title": "RBI Customer Protection - Limiting Liability of Customers in Unauthorised Electronic Banking Transactions",
+          "url": "https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=13140"
+        },
+        {
+          "title": "RBI Integrated Ombudsman Scheme - Complaint information",
+          "url": "https://cms.rbi.org.in/"
+        }
+      ]
+    },
+    {
+      "id": "FW-023",
+      "filename": "FW-023_debit_card_replacement_or_delivery_problem.pdf",
+      "title": "Debit-card replacement or delivery problem",
+      "topic": "Debit cards",
+      "focus": "A damaged, expired, or blocked debit card has not been replaced or was delivered to an unexpected address.",
+      "sources": [
+        {
+          "title": "RBI Customer Protection - Limiting Liability of Customers in Unauthorised Electronic Banking Transactions",
+          "url": "https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=13140"
+        },
+        {
+          "title": "RBI Integrated Ombudsman Scheme - Complaint information",
+          "url": "https://cms.rbi.org.in/"
+        }
+      ]
+    },
+    {
+      "id": "FW-024",
+      "filename": "FW-024_debit_card_transaction_limit_or_cash_withdrawal_issue.pdf",
+      "title": "Debit-card transaction limit or cash withdrawal issue",
+      "topic": "Debit cards",
+      "focus": "A card transaction or ATM withdrawal is declined despite sufficient account balance.",
+      "sources": [
+        {
+          "title": "RBI Customer Protection - Limiting Liability of Customers in Unauthorised Electronic Banking Transactions",
+          "url": "https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=13140"
+        },
+        {
+          "title": "RBI Integrated Ombudsman Scheme - Complaint information",
+          "url": "https://cms.rbi.org.in/"
+        }
+      ]
+    },
+    {
+      "id": "FW-025",
+      "filename": "FW-025_debit_card_fraud_report_and_customer_liability.pdf",
+      "title": "Debit-card fraud report and customer liability",
+      "topic": "Debit cards",
+      "focus": "A customer needs to understand what happens after promptly reporting an unauthorized electronic transaction.",
+      "sources": [
+        {
+          "title": "RBI Customer Protection - Limiting Liability of Customers in Unauthorised Electronic Banking Transactions",
+          "url": "https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=13140"
+        },
+        {
+          "title": "RBI Integrated Ombudsman Scheme - Complaint information",
+          "url": "https://cms.rbi.org.in/"
+        }
+      ]
+    },
+    {
+      "id": "FW-026",
+      "filename": "FW-026_home_loan_emi_debit_failed.pdf",
+      "title": "Home-loan EMI debit failed",
+      "topic": "Home loans",
+      "focus": "A scheduled EMI was not debited, or the loan account shows overdue despite funds being available.",
+      "sources": [
+        {
+          "title": "RBI Key Facts Statement for Loans and Advances, 2024",
+          "url": "https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12663"
+        },
+        {
+          "title": "RBI Pre-payment Charges on Loans Directions, 2025",
+          "url": "https://www.rbi.org.in/scripts/FS_Notification.aspx?Id=12878"
+        },
+        {
+          "title": "RBI Credit Information Reporting Directions",
+          "url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12929"
+        },
+        {
+          "title": "RBI Integrated Ombudsman Scheme - Complaint information",
+          "url": "https://cms.rbi.org.in/"
+        }
+      ]
+    },
+    {
+      "id": "FW-027",
+      "filename": "FW-027_home_loan_interest_rate_reset_or_emi_increase.pdf",
+      "title": "Home-loan interest-rate reset or EMI increase",
+      "topic": "Home loans",
+      "focus": "A floating-rate home loan has a rate change, higher EMI, or longer remaining tenure.",
+      "sources": [
+        {
+          "title": "RBI Key Facts Statement for Loans and Advances, 2024",
+          "url": "https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12663"
+        },
+        {
+          "title": "RBI Pre-payment Charges on Loans Directions, 2025",
+          "url": "https://www.rbi.org.in/scripts/FS_Notification.aspx?Id=12878"
+        },
+        {
+          "title": "RBI Credit Information Reporting Directions",
+          "url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12929"
+        },
+        {
+          "title": "RBI Integrated Ombudsman Scheme - Complaint information",
+          "url": "https://cms.rbi.org.in/"
+        }
+      ]
+    },
+    {
+      "id": "FW-028",
+      "filename": "FW-028_home_loan_part_prepayment_request.pdf",
+      "title": "Home-loan part-prepayment request",
+      "topic": "Home loans",
+      "focus": "A borrower wants to use surplus funds to reduce principal and needs the impact confirmed.",
+      "sources": [
+        {
+          "title": "RBI Key Facts Statement for Loans and Advances, 2024",
+          "url": "https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12663"
+        },
+        {
+          "title": "RBI Pre-payment Charges on Loans Directions, 2025",
+          "url": "https://www.rbi.org.in/scripts/FS_Notification.aspx?Id=12878"
+        },
+        {
+          "title": "RBI Credit Information Reporting Directions",
+          "url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12929"
+        },
+        {
+          "title": "RBI Integrated Ombudsman Scheme - Complaint information",
+          "url": "https://cms.rbi.org.in/"
+        }
+      ]
+    },
+    {
+      "id": "FW-029",
+      "filename": "FW-029_home_loan_foreclosure_or_closure_charges.pdf",
+      "title": "Home-loan foreclosure or closure charges",
+      "topic": "Home loans",
+      "focus": "A borrower is closing the loan and needs a final settlement quote or questions a charge.",
+      "sources": [
+        {
+          "title": "RBI Key Facts Statement for Loans and Advances, 2024",
+          "url": "https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12663"
+        },
+        {
+          "title": "RBI Pre-payment Charges on Loans Directions, 2025",
+          "url": "https://www.rbi.org.in/scripts/FS_Notification.aspx?Id=12878"
+        },
+        {
+          "title": "RBI Credit Information Reporting Directions",
+          "url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12929"
+        },
+        {
+          "title": "RBI Integrated Ombudsman Scheme - Complaint information",
+          "url": "https://cms.rbi.org.in/"
+        }
+      ]
+    },
+    {
+      "id": "FW-030",
+      "filename": "FW-030_home_loan_disbursement_delayed.pdf",
+      "title": "Home-loan disbursement delayed",
+      "topic": "Home loans",
+      "focus": "A sanctioned home loan is not disbursed, or a stage-wise construction payment is held.",
+      "sources": [
+        {
+          "title": "RBI Key Facts Statement for Loans and Advances, 2024",
+          "url": "https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12663"
+        },
+        {
+          "title": "RBI Pre-payment Charges on Loans Directions, 2025",
+          "url": "https://www.rbi.org.in/scripts/FS_Notification.aspx?Id=12878"
+        },
+        {
+          "title": "RBI Credit Information Reporting Directions",
+          "url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12929"
+        },
+        {
+          "title": "RBI Integrated Ombudsman Scheme - Complaint information",
+          "url": "https://cms.rbi.org.in/"
+        }
+      ]
+    },
+    {
+      "id": "FW-031",
+      "filename": "FW-031_home_loan_application_rejected_or_delayed.pdf",
+      "title": "Home-loan application rejected or delayed",
+      "topic": "Home loans",
+      "focus": "The application is rejected, pending, or additional documents are repeatedly requested.",
+      "sources": [
+        {
+          "title": "RBI Key Facts Statement for Loans and Advances, 2024",
+          "url": "https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12663"
+        },
+        {
+          "title": "RBI Pre-payment Charges on Loans Directions, 2025",
+          "url": "https://www.rbi.org.in/scripts/FS_Notification.aspx?Id=12878"
+        },
+        {
+          "title": "RBI Credit Information Reporting Directions",
+          "url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12929"
+        },
+        {
+          "title": "RBI Integrated Ombudsman Scheme - Complaint information",
+          "url": "https://cms.rbi.org.in/"
+        }
+      ]
+    },
+    {
+      "id": "FW-032",
+      "filename": "FW-032_home_loan_balance_transfer_or_rate_conversion_query.pdf",
+      "title": "Home-loan balance transfer or rate conversion query",
+      "topic": "Home loans",
+      "focus": "A borrower wants to compare a refinance, balance transfer, or conversion offer.",
+      "sources": [
+        {
+          "title": "RBI Key Facts Statement for Loans and Advances, 2024",
+          "url": "https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12663"
+        },
+        {
+          "title": "RBI Pre-payment Charges on Loans Directions, 2025",
+          "url": "https://www.rbi.org.in/scripts/FS_Notification.aspx?Id=12878"
+        },
+        {
+          "title": "RBI Credit Information Reporting Directions",
+          "url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12929"
+        },
+        {
+          "title": "RBI Integrated Ombudsman Scheme - Complaint information",
+          "url": "https://cms.rbi.org.in/"
+        }
+      ]
+    },
+    {
+      "id": "FW-033",
+      "filename": "FW-033_home_loan_account_statement_or_interest_certificate_missing.pdf",
+      "title": "Home-loan account statement or interest certificate missing",
+      "topic": "Home loans",
+      "focus": "A borrower needs an annual interest certificate, repayment history, or account statement for records.",
+      "sources": [
+        {
+          "title": "RBI Key Facts Statement for Loans and Advances, 2024",
+          "url": "https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12663"
+        },
+        {
+          "title": "RBI Pre-payment Charges on Loans Directions, 2025",
+          "url": "https://www.rbi.org.in/scripts/FS_Notification.aspx?Id=12878"
+        },
+        {
+          "title": "RBI Credit Information Reporting Directions",
+          "url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12929"
+        },
+        {
+          "title": "RBI Integrated Ombudsman Scheme - Complaint information",
+          "url": "https://cms.rbi.org.in/"
+        }
+      ]
+    },
+    {
+      "id": "FW-034",
+      "filename": "FW-034_home_loan_original_property_documents_not_returned.pdf",
+      "title": "Home-loan original property documents not returned",
+      "topic": "Home loans",
+      "focus": "The loan is closed but original property documents or a charge release confirmation are pending.",
+      "sources": [
+        {
+          "title": "RBI Key Facts Statement for Loans and Advances, 2024",
+          "url": "https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12663"
+        },
+        {
+          "title": "RBI Pre-payment Charges on Loans Directions, 2025",
+          "url": "https://www.rbi.org.in/scripts/FS_Notification.aspx?Id=12878"
+        },
+        {
+          "title": "RBI Credit Information Reporting Directions",
+          "url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12929"
+        },
+        {
+          "title": "RBI Integrated Ombudsman Scheme - Complaint information",
+          "url": "https://cms.rbi.org.in/"
+        }
+      ]
+    },
+    {
+      "id": "FW-035",
+      "filename": "FW-035_home_loan_co_applicant_or_ownership_mismatch.pdf",
+      "title": "Home-loan co-applicant or ownership mismatch",
+      "topic": "Home loans",
+      "focus": "Borrower, co-applicant, property ownership, or repayment details do not match across documents.",
+      "sources": [
+        {
+          "title": "RBI Key Facts Statement for Loans and Advances, 2024",
+          "url": "https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12663"
+        },
+        {
+          "title": "RBI Pre-payment Charges on Loans Directions, 2025",
+          "url": "https://www.rbi.org.in/scripts/FS_Notification.aspx?Id=12878"
+        },
+        {
+          "title": "RBI Credit Information Reporting Directions",
+          "url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12929"
+        },
+        {
+          "title": "RBI Integrated Ombudsman Scheme - Complaint information",
+          "url": "https://cms.rbi.org.in/"
+        }
+      ]
+    },
+    {
+      "id": "FW-036",
+      "filename": "FW-036_home_loan_credit_report_account_or_overdue_error.pdf",
+      "title": "Home-loan credit-report account or overdue error",
+      "topic": "Home loans",
+      "focus": "A loan is marked overdue, open, or unpaid despite payments or closure.",
+      "sources": [
+        {
+          "title": "RBI Key Facts Statement for Loans and Advances, 2024",
+          "url": "https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12663"
+        },
+        {
+          "title": "RBI Pre-payment Charges on Loans Directions, 2025",
+          "url": "https://www.rbi.org.in/scripts/FS_Notification.aspx?Id=12878"
+        },
+        {
+          "title": "RBI Credit Information Reporting Directions",
+          "url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12929"
+        },
+        {
+          "title": "RBI Integrated Ombudsman Scheme - Complaint information",
+          "url": "https://cms.rbi.org.in/"
+        }
+      ]
+    },
+    {
+      "id": "FW-037",
+      "filename": "FW-037_home_loan_insurance_bundled_with_property_finance.pdf",
+      "title": "Home-loan insurance bundled with property finance",
+      "topic": "Home loans",
+      "focus": "A borrower sees a premium, policy, or insurance requirement linked to a home-loan offer.",
+      "sources": [
+        {
+          "title": "RBI Key Facts Statement for Loans and Advances, 2024",
+          "url": "https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12663"
+        },
+        {
+          "title": "RBI Pre-payment Charges on Loans Directions, 2025",
+          "url": "https://www.rbi.org.in/scripts/FS_Notification.aspx?Id=12878"
+        },
+        {
+          "title": "RBI Credit Information Reporting Directions",
+          "url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12929"
+        },
+        {
+          "title": "RBI Integrated Ombudsman Scheme - Complaint information",
+          "url": "https://cms.rbi.org.in/"
+        }
+      ]
+    },
+    {
+      "id": "FW-038",
+      "filename": "FW-038_home_loan_pre_emi_or_construction_stage_interest_confusion.pdf",
+      "title": "Home-loan pre-EMI or construction-stage interest confusion",
+      "topic": "Home loans",
+      "focus": "A borrower is charged pre-EMI interest or is unsure how staged disbursement affects repayments.",
+      "sources": [
+        {
+          "title": "RBI Key Facts Statement for Loans and Advances, 2024",
+          "url": "https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12663"
+        },
+        {
+          "title": "RBI Pre-payment Charges on Loans Directions, 2025",
+          "url": "https://www.rbi.org.in/scripts/FS_Notification.aspx?Id=12878"
+        },
+        {
+          "title": "RBI Credit Information Reporting Directions",
+          "url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12929"
+        },
+        {
+          "title": "RBI Integrated Ombudsman Scheme - Complaint information",
+          "url": "https://cms.rbi.org.in/"
+        }
+      ]
+    },
+    {
+      "id": "FW-039",
+      "filename": "FW-039_personal_loan_emi_bounce_or_missed_payment.pdf",
+      "title": "Personal-loan EMI bounce or missed payment",
+      "topic": "Personal loans",
+      "focus": "An EMI failed, was returned, or appears overdue in the lender's system.",
+      "sources": [
+        {
+          "title": "RBI Key Facts Statement for Loans and Advances, 2024",
+          "url": "https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12663"
+        },
+        {
+          "title": "RBI Pre-payment Charges on Loans Directions, 2025",
+          "url": "https://www.rbi.org.in/scripts/FS_Notification.aspx?Id=12878"
+        },
+        {
+          "title": "RBI Credit Information Reporting Directions",
+          "url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12929"
+        },
+        {
+          "title": "RBI Integrated Ombudsman Scheme - Complaint information",
+          "url": "https://cms.rbi.org.in/"
+        }
+      ]
+    },
+    {
+      "id": "FW-040",
+      "filename": "FW-040_personal_loan_foreclosure_or_part_prepayment_question.pdf",
+      "title": "Personal-loan foreclosure or part-prepayment question",
+      "topic": "Personal loans",
+      "focus": "A borrower wants to repay early or disputes an early closure charge.",
+      "sources": [
+        {
+          "title": "RBI Key Facts Statement for Loans and Advances, 2024",
+          "url": "https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12663"
+        },
+        {
+          "title": "RBI Pre-payment Charges on Loans Directions, 2025",
+          "url": "https://www.rbi.org.in/scripts/FS_Notification.aspx?Id=12878"
+        },
+        {
+          "title": "RBI Credit Information Reporting Directions",
+          "url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12929"
+        },
+        {
+          "title": "RBI Integrated Ombudsman Scheme - Complaint information",
+          "url": "https://cms.rbi.org.in/"
+        }
+      ]
+    },
+    {
+      "id": "FW-041",
+      "filename": "FW-041_personal_loan_kfs_apr_or_fee_mismatch.pdf",
+      "title": "Personal-loan KFS, APR, or fee mismatch",
+      "topic": "Personal loans",
+      "focus": "The actual cost, fees, or repayment schedule differs from the offer communicated to the borrower.",
+      "sources": [
+        {
+          "title": "RBI Key Facts Statement for Loans and Advances, 2024",
+          "url": "https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12663"
+        },
+        {
+          "title": "RBI Pre-payment Charges on Loans Directions, 2025",
+          "url": "https://www.rbi.org.in/scripts/FS_Notification.aspx?Id=12878"
+        },
+        {
+          "title": "RBI Credit Information Reporting Directions",
+          "url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12929"
+        },
+        {
+          "title": "RBI Integrated Ombudsman Scheme - Complaint information",
+          "url": "https://cms.rbi.org.in/"
+        }
+      ]
+    },
+    {
+      "id": "FW-042",
+      "filename": "FW-042_personal_loan_disbursal_lower_than_sanctioned_amount.pdf",
+      "title": "Personal-loan disbursal lower than sanctioned amount",
+      "topic": "Personal loans",
+      "focus": "The amount credited is lower than expected after a personal loan is approved.",
+      "sources": [
+        {
+          "title": "RBI Key Facts Statement for Loans and Advances, 2024",
+          "url": "https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12663"
+        },
+        {
+          "title": "RBI Pre-payment Charges on Loans Directions, 2025",
+          "url": "https://www.rbi.org.in/scripts/FS_Notification.aspx?Id=12878"
+        },
+        {
+          "title": "RBI Credit Information Reporting Directions",
+          "url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12929"
+        },
+        {
+          "title": "RBI Integrated Ombudsman Scheme - Complaint information",
+          "url": "https://cms.rbi.org.in/"
+        }
+      ]
+    },
+    {
+      "id": "FW-043",
+      "filename": "FW-043_personal_loan_rejection_or_eligibility_question.pdf",
+      "title": "Personal-loan rejection or eligibility question",
+      "topic": "Personal loans",
+      "focus": "An application is declined or the borrower wants to understand eligibility factors.",
+      "sources": [
+        {
+          "title": "RBI Key Facts Statement for Loans and Advances, 2024",
+          "url": "https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12663"
+        },
+        {
+          "title": "RBI Pre-payment Charges on Loans Directions, 2025",
+          "url": "https://www.rbi.org.in/scripts/FS_Notification.aspx?Id=12878"
+        },
+        {
+          "title": "RBI Credit Information Reporting Directions",
+          "url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12929"
+        },
+        {
+          "title": "RBI Integrated Ombudsman Scheme - Complaint information",
+          "url": "https://cms.rbi.org.in/"
+        }
+      ]
+    },
+    {
+      "id": "FW-044",
+      "filename": "FW-044_personal_loan_credit_report_error_after_repayment.pdf",
+      "title": "Personal-loan credit-report error after repayment",
+      "topic": "Personal loans",
+      "focus": "A closed or repaid loan still shows a balance, overdue, or active account.",
+      "sources": [
+        {
+          "title": "RBI Key Facts Statement for Loans and Advances, 2024",
+          "url": "https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12663"
+        },
+        {
+          "title": "RBI Pre-payment Charges on Loans Directions, 2025",
+          "url": "https://www.rbi.org.in/scripts/FS_Notification.aspx?Id=12878"
+        },
+        {
+          "title": "RBI Credit Information Reporting Directions",
+          "url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12929"
+        },
+        {
+          "title": "RBI Integrated Ombudsman Scheme - Complaint information",
+          "url": "https://cms.rbi.org.in/"
+        }
+      ]
+    },
+    {
+      "id": "FW-045",
+      "filename": "FW-045_personal_loan_recovery_calls_or_harassment_concern.pdf",
+      "title": "Personal-loan recovery calls or harassment concern",
+      "topic": "Personal loans",
+      "focus": "A borrower receives repeated or threatening collection contact or is unsure whether a caller is genuine.",
+      "sources": [
+        {
+          "title": "RBI Key Facts Statement for Loans and Advances, 2024",
+          "url": "https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12663"
+        },
+        {
+          "title": "RBI Pre-payment Charges on Loans Directions, 2025",
+          "url": "https://www.rbi.org.in/scripts/FS_Notification.aspx?Id=12878"
+        },
+        {
+          "title": "RBI Credit Information Reporting Directions",
+          "url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12929"
+        },
+        {
+          "title": "RBI Integrated Ombudsman Scheme - Complaint information",
+          "url": "https://cms.rbi.org.in/"
+        }
+      ]
+    },
+    {
+      "id": "FW-046",
+      "filename": "FW-046_personal_loan_settlement_offer_or_closure_wording.pdf",
+      "title": "Personal-loan settlement offer or closure wording",
+      "topic": "Personal loans",
+      "focus": "A borrower receives a settlement, waiver, or closure offer and needs to understand its credit consequences.",
+      "sources": [
+        {
+          "title": "RBI Key Facts Statement for Loans and Advances, 2024",
+          "url": "https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12663"
+        },
+        {
+          "title": "RBI Pre-payment Charges on Loans Directions, 2025",
+          "url": "https://www.rbi.org.in/scripts/FS_Notification.aspx?Id=12878"
+        },
+        {
+          "title": "RBI Credit Information Reporting Directions",
+          "url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12929"
+        },
+        {
+          "title": "RBI Integrated Ombudsman Scheme - Complaint information",
+          "url": "https://cms.rbi.org.in/"
+        }
+      ]
+    },
+    {
+      "id": "FW-047",
+      "filename": "FW-047_personal_loan_payment_posted_late_or_twice.pdf",
+      "title": "Personal-loan payment posted late or twice",
+      "topic": "Personal loans",
+      "focus": "An EMI payment was debited twice, credited late, or not matched to the loan account.",
+      "sources": [
+        {
+          "title": "RBI Key Facts Statement for Loans and Advances, 2024",
+          "url": "https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12663"
+        },
+        {
+          "title": "RBI Pre-payment Charges on Loans Directions, 2025",
+          "url": "https://www.rbi.org.in/scripts/FS_Notification.aspx?Id=12878"
+        },
+        {
+          "title": "RBI Credit Information Reporting Directions",
+          "url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12929"
+        },
+        {
+          "title": "RBI Integrated Ombudsman Scheme - Complaint information",
+          "url": "https://cms.rbi.org.in/"
+        }
+      ]
+    },
+    {
+      "id": "FW-048",
+      "filename": "FW-048_personal_loan_top_up_or_refinancing_proposal.pdf",
+      "title": "Personal-loan top-up or refinancing proposal",
+      "topic": "Personal loans",
+      "focus": "A borrower is offered a top-up or refinance and wants to compare total cost.",
+      "sources": [
+        {
+          "title": "RBI Key Facts Statement for Loans and Advances, 2024",
+          "url": "https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12663"
+        },
+        {
+          "title": "RBI Pre-payment Charges on Loans Directions, 2025",
+          "url": "https://www.rbi.org.in/scripts/FS_Notification.aspx?Id=12878"
+        },
+        {
+          "title": "RBI Credit Information Reporting Directions",
+          "url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12929"
+        },
+        {
+          "title": "RBI Integrated Ombudsman Scheme - Complaint information",
+          "url": "https://cms.rbi.org.in/"
+        }
+      ]
+    },
+    {
+      "id": "FW-049",
+      "filename": "FW-049_digital_personal_loan_app_or_lender_legitimacy_concern.pdf",
+      "title": "Digital personal-loan app or lender legitimacy concern",
+      "topic": "Personal loans",
+      "focus": "A borrower is asked to install an unknown app, grant broad phone permissions, or pay an upfront fee.",
+      "sources": [
+        {
+          "title": "RBI Key Facts Statement for Loans and Advances, 2024",
+          "url": "https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12663"
+        },
+        {
+          "title": "RBI Pre-payment Charges on Loans Directions, 2025",
+          "url": "https://www.rbi.org.in/scripts/FS_Notification.aspx?Id=12878"
+        },
+        {
+          "title": "RBI Credit Information Reporting Directions",
+          "url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12929"
+        },
+        {
+          "title": "RBI Integrated Ombudsman Scheme - Complaint information",
+          "url": "https://cms.rbi.org.in/"
+        }
+      ]
+    },
+    {
+      "id": "FW-050",
+      "filename": "FW-050_personal_loan_rate_tenure_or_emi_changed.pdf",
+      "title": "Personal-loan rate, tenure, or EMI changed",
+      "topic": "Personal loans",
+      "focus": "The lender changes the EMI or repayment details or the borrower cannot reconcile the schedule.",
+      "sources": [
+        {
+          "title": "RBI Key Facts Statement for Loans and Advances, 2024",
+          "url": "https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12663"
+        },
+        {
+          "title": "RBI Pre-payment Charges on Loans Directions, 2025",
+          "url": "https://www.rbi.org.in/scripts/FS_Notification.aspx?Id=12878"
+        },
+        {
+          "title": "RBI Credit Information Reporting Directions",
+          "url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12929"
+        },
+        {
+          "title": "RBI Integrated Ombudsman Scheme - Complaint information",
+          "url": "https://cms.rbi.org.in/"
+        }
+      ]
+    }
+  ]
+}
